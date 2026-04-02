@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pt
+*.npy
+*.wav
+*.log
+nohup.out
+logs/
